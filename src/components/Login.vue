@@ -2,7 +2,7 @@
   <div class="login">
     <img src="../assets/logo.png">
     <el-row  type="flex" class="row-bg" justify="center">
-      <el-col :xs="24" :sm="18" :md="12" :lg="6">
+      <el-col :xs="24" :sm="18" :md="12" :lg="12">
         <h2>用户登录</h2>
         <div class="loginBox">
 
